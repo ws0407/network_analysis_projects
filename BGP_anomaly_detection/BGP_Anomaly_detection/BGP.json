@@ -1,0 +1,42 @@
+[{
+    "type": "image",
+    "title": "Feature set compare 1",
+    "description": "Comparing prefix hijacking events with normal events on prefix feature sets.",
+    "data": "/box1.png"
+},
+{
+    "type": "image",
+    "title": "Feature set compare 2",
+    "description": "Comparing breakout events with normal events based on AS volume sets.",
+    "data": "/box2.png"
+},
+{
+    "type": "image",
+    "title": "Heavy tail distribution 1",
+    "description": "90th quantile distribution plot of path length.",
+    "data": "/len.png"
+},
+{
+    "type": "image",
+    "title": "Heavy tail distribution 2",
+    "description": "90th quantile distribution plot of edit distance.",
+    "data": "/Diff.png"
+},
+{
+    "type": "image",
+    "title": "Heavy tail distribution 3",
+    "description": "90th quantile distribution plot of increase path length.",
+    "data": "/Longer.png"
+},
+{
+    "type": "image",
+    "title": "Heavy tail distribution 4",
+    "description": "90th quantile distribution plot of decrease path length.",
+    "data": "/Shorter.png"
+},
+{
+    "type": "image",
+    "title": "Anomaly detection result",
+    "description": "Anomaly detection based on well-known anomalies.",
+    "data": "/test_route_leak.png"
+}]
