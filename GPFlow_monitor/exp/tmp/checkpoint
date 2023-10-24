@@ -1,0 +1,4 @@
+model_checkpoint_path: "cp-1995"
+all_model_checkpoint_paths: "cp-1965"
+all_model_checkpoint_paths: "cp-1980"
+all_model_checkpoint_paths: "cp-1995"
