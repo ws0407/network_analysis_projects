@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sender-Receiver",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "recv-main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recv-main-Debug-6334ce020d1975d324fd.json",
+					"name" : "recv-main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "send-main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-send-main-Debug-f75a33db5e3d00f6f2e8.json",
+					"name" : "send-main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/BaiduNetdiskDownload/projectSrc/金涛-可用带宽测量工具/abw-project/code/out/build/x64-Debug",
+		"source" : "D:/BaiduNetdiskDownload/projectSrc/金涛-可用带宽测量工具/abw-project/code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
